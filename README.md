@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CRAZYYODDHA
-- 👀 I’m currently interested in Full-Stack Development.
-- 🌱 I’m currently learning Front-End Web Development.
+- 👀 I’m currently interested in Learning Full-Stack Development.
+- 🌱 I’m currently a beginner Front-End Web Developer.
 - 🤗 Always learning from mistakes
 <!---
 CRAZYYODDHA/CRAZYYODDHA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
