@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmirShamim
+- 👋 Hi, I’m @CRAZYYODDHA
 - 👀 I’m currently interested in Learning Full-Stack Development.
 - 🌱 I’m currently a beginner Front-End and Back-End Web Developer.
 - 🤗 Always learning from mistakes
